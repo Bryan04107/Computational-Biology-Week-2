@@ -1,1 +1,2 @@
-# Computational-Biology-Week-2
+# Computational Biology Week 2
+## Group Members: Bryan Sujoso, Kenneth Lay,
